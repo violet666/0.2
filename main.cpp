@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    int a, b;
     for(int i = 1; ;i++){
         int x = i*i;
         if(x < 1000) continue;
